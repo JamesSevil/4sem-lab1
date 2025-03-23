@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "brand": "BMW",
+      "model": "M8",
+      "fuel": "100",
+      "brakes": "100",
+      "pressure": "3,5",
+      "lock": "close",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "brand": "Nissan",
+      "model": "370z",
+      "fuel": "100",
+      "brakes": "100",
+      "pressure": "3,5",
+      "lock": "close"
+    }
+  ]
+}
